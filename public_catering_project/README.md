@@ -7,6 +7,10 @@
 ![plotly](https://img.shields.io/pypi/v/plotly?label=plotly)
 ![folium](https://img.shields.io/pypi/v/folium?label=folium)
 
+**В данном проекте используются интерактивные графики,** [ссылка на nbviewer для просмотра](https://nbviewer.org/github/lJHl/data-analysis/blob/master/public_catering_project/public_catering_project.ipynb)
+
+---
+
 ## Цель исследования
 
 Исследование рынка для открытия небольшого кафе в Москве, а именно:
