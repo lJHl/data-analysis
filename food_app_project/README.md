@@ -8,7 +8,7 @@
 ![plotly](https://img.shields.io/pypi/v/plotly?label=plotly)
 ![scipy](https://img.shields.io/pypi/v/scipy?label=SciPy)
 
-**В данном проекте используются интерактивные графики,** [ссылка на nbviewer для просмотра](https://nbviewer.org/github/lJHl/data-analysis/blob/master/food_app_project/food_app_analysis_project.ipynb)
+**В данном проекте используются интерактивные графики,** [ссылка на nbviewer для просмотра](https://nbviewer.org/github/lJHl/data-analysis/blob/e96b89f8664b2bf0c557939f030358c85310572e/food_app_project/food_app_analysis_project.ipynb)
 
 ---
 
