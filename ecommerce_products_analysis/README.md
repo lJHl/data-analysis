@@ -9,9 +9,9 @@
 
 **В данном проекте используются интерактивные графики:**
 
-[Ссылка на nbviewer для проекта по анализу товарного ассортимента интернет-магазина]()
+[Ссылка на nbviewer для проекта по анализу товарного ассортимента интернет-магазина](https://nbviewer.org/github/lJHl/data-analysis/blob/8b3de19b20f94204f98f1a279c8728332c33a055/ecommerce_products_analysis/ecommerce_products_analysys_project.ipynb)
 
-[Ссылка на nbviewer для проекта по оценке A/B-теста]()
+[Ссылка на nbviewer для проекта по оценке A/B-теста](https://nbviewer.org/github/lJHl/data-analysis/blob/8b3de19b20f94204f98f1a279c8728332c33a055/ecommerce_products_analysis/ecommerce_ab_project.ipynb)
 
 ---
 
