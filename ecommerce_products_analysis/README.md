@@ -8,7 +8,7 @@
 
 **В данном проекте используются интерактивные графики:**
 
-[Ссылка на nbviewer](https://nbviewer.org/github/lJHl/data-analysis/blob/8b3de19b20f94204f98f1a279c8728332c33a055/ecommerce_products_analysis/ecommerce_products_analysys_project.ipynb)
+[Ссылка на nbviewer](https://nbviewer.org/github/lJHl/data-analysis/blob/8e7df47c398bcce3700edfe195bc2917b2534198/ecommerce_products_analysis/ecommerce_products_analysys_project.ipynb)
 
 ---
 
