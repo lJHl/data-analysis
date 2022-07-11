@@ -5,6 +5,10 @@
 ![numpy](https://img.shields.io/pypi/v/numpy?label=NumPy)
 ![plotly](https://img.shields.io/pypi/v/plotly?label=plotly)
 ![scipy](https://img.shields.io/pypi/v/scipy?label=SciPy)
+![pymystem](https://img.shields.io/pypi/v/pymystem3?label=pymystem3)
+
+[Описание библиотеки pymystem](https://pypi.org/project/pymystem3/)
+
 
 **В данном проекте используются интерактивные графики:**
 
