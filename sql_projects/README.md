@@ -23,5 +23,8 @@
 
 ![schema](./schema.png)
 
-## business_metrics – расчёт бизнес-метрик таких как LTV, Conversion, ARPPU, ROI
-## windows_examples – содержит примеры оконных функций
+|Проект|Описание|
+|:---|:---|
+|business_metrics|Расчёт бизнес-метрик таких как LTV, Conversion, ARPPU, ROI|
+|windows_examples|Содержит примеры оконных функций|
+|cohort_analysis|Когортный анализ RR, LTV, CR|
